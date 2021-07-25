@@ -1,5 +1,5 @@
 # 1. generate random number
 # 2. print the random number
-from random import randint
+from random
 
-print(randint(1, 10))
+print(random.sample(range(443), 45))
